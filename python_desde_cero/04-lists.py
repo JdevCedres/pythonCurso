@@ -9,7 +9,7 @@ my_list = [35 ,24, 62, 52, 30, 30, 17]
 print(my_list)
 print(len(my_list))
 
-my_other_list = [1.77, "Jose", "gonzalez"]
+my_other_list = [46, 1.77, "Jose", "gonzalez"]
 print(type(my_other_list))
 
 print(my_other_list[0])
